@@ -38,7 +38,7 @@ header {
   margin: 4rem auto;
   text-align: center;
   max-width: 900px;
-}
+} 
 
 /* Animazione main text */
 .animated-title {
@@ -61,7 +61,7 @@ header {
 
 /* Animation subtext */
 .animated-subtitle {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   color: #333;
   margin-top: 0.5rem;
   opacity: 0;
@@ -83,13 +83,12 @@ header {
   display: block;
 }
 
-
 /* Skills section */
 .skill-category {
   margin-bottom: 2rem;
 }
 
-/* Titolo categoria */
+/* Skill category title */
 .skill-category h3 {
   font-size: 1.2rem;
   font-weight: 600;
